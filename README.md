@@ -21,4 +21,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## Python <a name="python"></a>
 | Project Link | Area | Project Description | Libraries |
 |--------------|------|---------------------|-----------|
-
+| [💵 Data Scientist Salary Prediction](https://github.com/RobinsonKao/Portfolio-Projects/tree/main/Data%20Science%20Salaries%20Project) | Data Wrangling, EDA, Machine Learning Modeling | This project develops a machine learning model to predict salaries for data science roles globally. By analyzing factors like experience level, location, and employment type, it provides insights into compensation and areas for improvement. | pandas, sklearn, Statsmodel API, numpy, matplotlib, seaborn |
