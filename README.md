@@ -10,7 +10,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## SQL <a name="sql"></a>
 | Project Link | Area of Analysis | Project Description |
 |--------------|------------------|---------------------|
-| [🛍 Online Retail Sales and Customer Data](https://github.com/RobinsonKao/SQL-Projects/tree/main/Online%20Retail%20Sales%20Project) | EDA, Data Transformation | Utilized SQL queries to extract insights on product popularity, seasonal revenue, top-selling items, sales trends by month and country, customer spending habits, and customer lifetime value. These insights enable informed inventory management and personalized marketing strategies, enhancing overall business performance. |
+| [🛍 Online Retail Sales and Customer Data](https://github.com/RobinsonKao/SQL-Projects/tree/main/Online%20Retail%20Sales%20Project) | EDA & Data Transformation | Utilized SQL queries to extract insights on product popularity, seasonal revenue, top-selling items, sales trends by month and country, customer spending habits, and customer lifetime value. These insights enable informed inventory management and personalized marketing strategies, enhancing overall business performance. |
 
 ## Tableau <a name="sql"></a>
 | Project Link | Project Description |
