@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## Tableau <a name="sql"></a>
 | Project Link | Project Description |
 |--------------|---------------------|
-| [👩🏻‍💻 Online Retail Sales Dashboard](https://public.tableau.com/app/profile/robinson.kao/viz/OnlineRetailSalesDashboard_17141246193480/Dashboard1) |  Developed an interactive dashboard featuring key metrics such as revenue, COGS, net profit, CLV profitability, seasonal revenue share, monthly trends, country revenue contributions over time, and a revenue per country heatmap. |
+| [👩🏻‍💻 Online Retail Sales Dashboard](https://public.tableau.com/app/profile/robinson.kao/viz/OnlineRetailSalesDashboard_17141246193480/Dashboard1) | Developed an interactive dashboard featuring key metrics such as month to month revenue, cost of goods sold, CLV profitability, seasonal revenue share, average purchase value by country, and a revenue per country heatmap. |
 
 
 ## Python <a name="python"></a>
