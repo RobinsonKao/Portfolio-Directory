@@ -14,7 +14,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | [🚚 DataCo Supply Chain Performance and Analysis Project](https://github.com/RobinsonKao/Portfolio-Projects/tree/main/DataCo%20Supply%20Chain%20Performance%20and%20Analysis%20Project) | Data Transformation, Data Wrangling, EDA | This project involves a detailed analysis of sales, customer behavior, and shipping efficiency using SQL queries on a comprehensive dataset. The goal is to uncover actionable insights into revenue generation, geographical sales patterns, customer segmentation, and shipping performance. |
 
 
-## Tableau <a name="sql"></a>
+## Tableau <a name="tableau"></a>
 | Project Link | Project Description |
 |--------------|---------------------|
 | [👩🏻‍💻 Online Retail Sales Dashboard](https://public.tableau.com/app/profile/robinson.kao/viz/OnlineRetailSalesDashboard_17141246193480/Dashboard1) | Developed an interactive dashboard featuring key metrics such as month to month revenue, cost of goods sold, CLV profitability, seasonal revenue share, average purchase value by country, and a revenue per country heatmap based on queried results from online retail sales EDA project. |
